@@ -17,17 +17,17 @@
 > Not: Aşağıdaki dosyaları `images/` klasörüne ekledikten sonra bu görseller otomatik görünür.
 
 **3B Render (Üstten)**
-![3B Render Üstten](images/3d_render_top.png)
+![3B Render Üstten](images/3d_render_top.jpeg)
 
 **3B Render (İzometrik)**
-![3B Render İzometrik](images/3d_render_iso.png)
+![3B Render İzometrik](images/3d_render_iso.jpeg)
 
 **Şematik**
-![Şematik](images/schematic.png)
+![Şematik](images/schematic.jpeg)
 
 **PCB — Üst Katman / Alt Katman**
-![PCB Üst Katman](images/pcb_top.png)
-![PCB Alt Katman](images/pcb_bottom.png)
+![PCB Üst Katman](images/pcb_top.jpeg)
+![PCB Alt Katman](images/pcb_bottom.jpeg)
 
 ---
 
